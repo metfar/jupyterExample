@@ -1,4 +1,5 @@
-# jupyterExample
+# Python Fundamentals - Final Project
+
 Jupyter Notebook GUI example
 
 # Run it
